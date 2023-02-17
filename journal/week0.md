@@ -67,3 +67,11 @@ User created named **_Bishop_** and added to the **Admin** User Group which was 
 ![image](https://user-images.githubusercontent.com/63907253/218709710-2348eb2e-a89c-4868-bdcd-44eddf947deb.png)
 
 **MFA** is also enabled for the user alongside a **Secret Access Key** and **Access Key ID** (exported .csv file locally).
+
+
+## CloudShell
+
+Screenshot to prove use of **CloudShell**:
+
+![image](https://user-images.githubusercontent.com/63907253/219647374-2182e8fe-cff2-41e9-8d37-7070cdd4f04e.png)
+
