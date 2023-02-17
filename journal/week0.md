@@ -16,6 +16,9 @@ I ran the the following command to install the AWS CLI:
    ```cli
    aws --version
    ```
+   
+   ![image](https://user-images.githubusercontent.com/63907253/219645410-3f1be331-dfa3-4148-b7e6-fdb55919cb9f.png)
+
 ---
 
 ###  Architecture Diagrams
